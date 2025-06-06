@@ -1,0 +1,8 @@
+{
+  "name": "Dashboard Freelancer Personale",
+  "description": "Una dashboard desktop personale per Roberto Ottaviano, Creative Partner, per monitorare l'attività di freelance grafico. Include metriche chiave, grafici finanziari, attività recenti e una lista di cose da fare, con un design minimale ed elegante ispirato al suo sito web.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}

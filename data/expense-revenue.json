@@ -1,0 +1,9 @@
+
+[
+  { "month": "Gen", "year": 2023, "revenue": 1500, "expenses": 400 }, { "month": "Feb", "year": 2023, "revenue": 1800, "expenses": 500 },
+  { "month": "Mar", "year": 2023, "revenue": 1200, "expenses": 300 }, { "month": "Apr", "year": 2023, "revenue": 2100, "expenses": 600 },
+  { "month": "Mag", "year": 2023, "revenue": 2500, "expenses": 700 }, { "month": "Giu", "year": 2023, "revenue": 2200, "expenses": 550 },
+  { "month": "Lug", "year": 2024, "revenue": 2800, "expenses": 750 }, { "month": "Ago", "year": 2024, "revenue": 1900, "expenses": 520 },
+  { "month": "Set", "year": 2024, "revenue": 3200, "expenses": 800 }, { "month": "Ott", "year": 2024, "revenue": 3000, "expenses": 770 },
+  { "month": "Nov", "year": 2024, "revenue": 2700, "expenses": 720 }, { "month": "Dic", "year": 2024, "revenue": 3500, "expenses": 850 }
+]

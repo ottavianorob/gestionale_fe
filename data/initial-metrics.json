@@ -1,0 +1,31 @@
+
+[
+  { 
+    "id": "entrateLorde", 
+    "title": "Entrate Lorde", 
+    "value": "€12,345", 
+    "percentageChange": 5.2, 
+    "iconName": "CurrencyEuroIcon"
+  },
+  { 
+    "id": "speseVariabili", 
+    "title": "Spese Variabili", 
+    "value": "€3,456", 
+    "percentageChange": -2.1, 
+    "iconName": "CurrencyEuroIcon" 
+  },
+  { 
+    "id": "clientiAttivi", 
+    "title": "Clienti Attivi", 
+    "value": "23", 
+    "percentageChange": 10, 
+    "iconName": "UserIcon" 
+  }, 
+  { 
+    "id": "progettiInCorso", 
+    "title": "Progetti in Corso", 
+    "value": "7", 
+    "percentageChange": 0, 
+    "iconName": "FolderIcon" 
+  }
+]

@@ -1,0 +1,6 @@
+
+[
+  { "id": "t1", "task": "Inviare proposta a Cliente Y.", "completed": false, "urgency": "high", "client": "Cliente Y", "estimatedHours": 3, "createdAt": "2024-07-29T10:00:00.000Z" },
+  { "id": "t2", "task": "Preparare wireframe per App Z.", "completed": true, "urgency": "medium", "client": "App Z Makers", "estimatedHours": 12, "finalPrice": 600, "createdAt": "2024-07-28T10:00:00.000Z" },
+  { "id": "t3", "task": "Aggiornare portfolio online.", "completed": false, "urgency": "low", "estimatedHours": 8, "createdAt": "2024-07-27T10:00:00.000Z" }
+]

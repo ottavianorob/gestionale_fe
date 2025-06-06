@@ -1,0 +1,9 @@
+
+[
+  { "month": "Gen", "year": 2023, "revenue": 1500 }, { "month": "Feb", "year": 2023, "revenue": 1800 },
+  { "month": "Mar", "year": 2023, "revenue": 1200 }, { "month": "Apr", "year": 2023, "revenue": 2100 },
+  { "month": "Mag", "year": 2023, "revenue": 2500 }, { "month": "Giu", "year": 2023, "revenue": 2200 },
+  { "month": "Lug", "year": 2024, "revenue": 2800 }, { "month": "Ago", "year": 2024, "revenue": 1900 },
+  { "month": "Set", "year": 2024, "revenue": 3200 }, { "month": "Ott", "year": 2024, "revenue": 3000 },
+  { "month": "Nov", "year": 2024, "revenue": 2700 }, { "month": "Dic", "year": 2024, "revenue": 3500 }
+]

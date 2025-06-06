@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "denominazione": "Aerologistick S.r.l.",
+    "partitaIva": "54672345",
+    "indirizzo1": "Viale Lancetti, 29",
+    "indirizzo2": "20140 MILANO",
+    "immagineUrl": "assets/images/clients/1.IMAGE.225412.jpg"
+  },
+  {
+    "id": 2,
+    "denominazione": "Dott. Michele Mezzano",
+    "partitaIva": "32412343",
+    "indirizzo1": "Via Roma, 123",
+    "indirizzo2": "20121 MILANO",
+    "immagineUrl": null
+  },
+  {
+    "id": 3,
+    "denominazione": "Geometry Global S.r.l.",
+    "partitaIva": "13413412",
+    "indirizzo1": "Via delle Arti, 45",
+    "indirizzo2": "50123 FIRENZE",
+    "immagineUrl": "assets/images/clients/3.IMAGE.183029.jpg"
+  },
+  {
+    "id": 4,
+    "denominazione": "Marvin Studio S.r.l.s.",
+    "partitaIva": "23412412",
+    "indirizzo1": "Corso Vittorio Emanuele, 67",
+    "indirizzo2": "186 ROMA",
+    "immagineUrl": null
+  },
+  {
+    "id": 5,
+    "denominazione": "TUM Italia S.u.r.l.",
+    "partitaIva": "IT08614440967",
+    "indirizzo1": "Via Pietro Cironi, 15",
+    "indirizzo2": "20133 MILANO",
+    "immagineUrl": "assets/images/clients/5.IMAGE.175901.jpg"
+  },
+  {
+    "id": 6,
+    "denominazione": "VMLY&R Italy S.r.l.",
+    "partitaIva": "IT10122430159",
+    "indirizzo1": "Viale Lancetti, 29",
+    "indirizzo2": "20140 MILANO",
+    "immagineUrl": "assets/images/clients/6.IMAGE.175627.jpg"
+  },
+  {
+    "id": 7,
+    "denominazione": "AB Agenzia Comunicazione",
+    "partitaIva": "54714745",
+    "indirizzo1": "Piazza San Marco, 56",
+    "indirizzo2": "30124 VENEZIA",
+    "immagineUrl": null
+  },
+  {
+    "id": 8,
+    "denominazione": "Big Digital",
+    "partitaIva": "65069745",
+    "indirizzo1": "Via dei Creativi, 12",
+    "indirizzo2": "40121 BOLOGNA",
+    "immagineUrl": "assets/images/clients/8.IMAGE.182138.jpg"
+  },
+  {
+    "id": 9,
+    "denominazione": "STKZ S.R.L.",
+    "partitaIva": "75424745",
+    "indirizzo1": "Via della Pubblicità, 78",
+    "indirizzo2": "90133 PALERMO",
+    "immagineUrl": null
+  }
+]
