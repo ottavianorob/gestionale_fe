@@ -28,28 +28,10 @@ import {
 } from './config/dashboard-config';
 
 // Component Imports from new index file
-import {
-  Sidebar,
-  UtilityBar,
-  MetricBox,
-  SectionTitle,
-  TodoItem,
-  TaskInputForm,
-  FiscalSimulationBox,
-  FileManager,
-  ChartFilters,
-  DragHandle,
-  HiddenWidgetsManager,
-  NewsTicker,
-  ClientsPage,
-  CalendarWidget,
-  EventModal,
-  ServicesPage,
-  InvoicesPage,
-  ProjectsPage,
-  GoogleDriveFilesViewer,
-  SettingsPage
-} from '../components';
+import Sidebar from './components/Sidebar';
+import UtilityBar from './components/UtilityBar';
+// ...
+import SettingsPage from './components/SettingsPage';
 
 // Chart Component Imports (from subdirectories)
 import { MonthlyRevenueChart } from '../components/charts/MonthlyRevenueChart';
