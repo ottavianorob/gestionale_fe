@@ -1,0 +1,220 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard Freelancer Personale</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,200;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,200;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://esm.sh/react-grid-layout@1.4.4/css/styles.css" />
+  <link rel="stylesheet" href="https://esm.sh/react-resizable@3.0.5/css/styles.css" />
+  <style>
+    html, body {
+      height: 100%;
+      font-family: 'DM Sans', sans-serif;
+    }
+    body {
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      line-height: 1.65; 
+      min-height: 100vh; 
+    }
+
+    /* News Ticker Animation */
+    @keyframes tickerScroll {
+      0% { transform: translateX(0%); }
+      100% { transform: translateX(-50%); }
+    }
+    .ticker-move { animation: tickerScroll 40s linear infinite; }
+    .ticker-wrap:hover .ticker-move { animation-play-state: paused; }
+
+    /* Custom Scrollbar for Webkit browsers */
+    ::-webkit-scrollbar {
+      width: 6px; 
+      height: 6px; 
+    }
+    ::-webkit-scrollbar-track {
+      background: var(--color-primary, #053151); 
+      border-radius: 0;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: var(--color-accent, #ff9000); 
+      border: 1px solid var(--color-primary, #053151);
+      border-radius: 0; /* Sharp edges */
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--color-accent-darker, #e07e00); 
+    }
+
+    /* Cursor styles for timeline dragging */
+    .cursor-grab { cursor: grab; }
+    .grabbing { cursor: grabbing; }
+
+  </style>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '#053151',      
+            'primary-light': '#092b47', 
+            accent: '#ff9000',        
+            content: '#ffffff',       
+            card: '#0c3353',          
+            danger: '#e53e3e',        
+            'danger-hover': '#c53030',
+            success: '#38a169',       
+            warning: '#dd6b20',       
+          },
+          fontFamily: {
+            sans: ['DM Sans', 'sans-serif'],
+          },
+          fontWeight: { 
+            extralight: '200',
+            normal: '400',
+            medium: '500',
+            semibold: '600',
+            bold: '700',
+          },
+          letterSpacing: {
+            'wide-xl': '0.15em',
+            'wide-2xl': '0.2em',
+          },
+          ringOffsetColor: { 
+             primary: '#053151',
+             'primary-light': '#092b47',
+             card: '#0c3353',
+          },
+          borderRadius: { 
+            'none': '0',
+            'sm': '0',
+            DEFAULT: '0',
+            'md': '0',
+            'lg': '0',
+            'xl': '0',
+            '2xl': '0',
+            '3xl': '0',
+            'full': '9999px', // Kept for notification badge (circular, specific override)
+          },
+          boxShadow: { 
+            DEFAULT: 'none',
+            sm: 'none',
+            md: 'none',
+            lg: 'none',
+            xl: 'none',
+            '2xl': 'none',
+            inner: 'none',
+            none: 'none',
+          }
+        }
+      },
+      plugins: [
+        function({ addBase, theme }) {
+          addBase({
+            'body': {
+                '@apply leading-relaxed': {} 
+            },
+            'input[type="text"], input[type="number"], input[type="url"], input[type="email"], input[type="password"], input[type="date"], textarea, select': {
+              '@apply bg-card border border-content/20 text-content p-2.5 w-full outline-none transition-colors duration-150': {}, 
+              'border-radius': '0', 
+              // Adjusted default text size for inputs based on body context
+              '@apply text-base sm:text-sm': {},
+              '@apply focus:ring-1 focus:ring-accent focus:border-accent focus:ring-offset-0': {}, 
+              '&::placeholder': {
+                color: theme('colors.content/50'),
+              },
+            },
+            'select': {
+              '@apply appearance-none': {},
+              'background-image': 'url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23ff9000%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-13-5.4H18.4c-5%200-9.3%201.8-12.9%205.4A17.6%2017.6%200%200%200%200%2082.2c0%205%201.8%209.3%205.4%2012.9l128%20127.9c3.6%203.6%207.8%205.4%2012.8%205.4s9.2-1.8%2012.8-5.4L287%2095c3.5-3.5%205.4-7.8%205.4-12.8%200-5-1.9-9.2-5.5-12.8z%22%2F%3E%3C%2Fsvg%3E")',
+              'background-repeat': 'no-repeat',
+              'background-position': 'right 0.75rem center',
+              'background-size': '0.65em auto',
+              'padding-right': '2.5rem', 
+            },
+             'input[type="date"]': {
+                'color-scheme': 'dark',
+                '@apply appearance-none': {}, 
+            },
+             'input[type="checkbox"]': {
+                '@apply appearance-none h-5 w-5 border-2 border-content/50 bg-card checked:bg-accent checked:border-accent transition-colors duration-150 ease-in-out align-middle select-none flex-shrink-0': {},
+                'border-radius': '0', 
+                '&:focus': {
+                  '@apply ring-1 ring-accent ring-offset-0': {}
+                },
+             },
+            'button.btn-primary, button:not([class*="btn-"])': { 
+              '@apply bg-accent text-primary hover:bg-opacity-90 disabled:opacity-60 disabled:cursor-not-allowed': {},
+              '@apply px-4 py-2 font-semibold transition-colors duration-150 ease-in-out': {}, 
+              // Adjusted default text size for buttons based on body context
+              '@apply text-base sm:text-sm': {},
+              'border-radius': '0', 
+              '@apply focus:outline-none focus:ring-1 focus:ring-accent focus:ring-offset-0': {},
+            },
+            'button.btn-secondary': {
+              '@apply bg-primary-light text-content hover:bg-opacity-80 border border-content/30 disabled:opacity-60 disabled:cursor-not-allowed': {},
+               '@apply px-4 py-2 font-semibold transition-colors duration-150 ease-in-out': {}, 
+               // Adjusted default text size for buttons
+              '@apply text-base sm:text-sm': {},
+              'border-radius': '0', 
+              '@apply focus:outline-none focus:ring-1 focus:ring-accent focus:ring-offset-0': {},
+            },
+             'button.btn-danger': {
+              '@apply bg-danger text-content hover:bg-danger-hover disabled:opacity-60 disabled:cursor-not-allowed': {},
+              '@apply px-4 py-2 font-semibold transition-colors duration-150 ease-in-out': {}, 
+              // Adjusted default text size
+              '@apply text-base sm:text-sm': {},
+              'border-radius': '0', 
+              '@apply focus:outline-none focus:ring-1 focus:ring-accent focus:ring-offset-0': {},
+            },
+            'button.btn-icon': { 
+                '@apply p-1.5 sm:p-2 bg-transparent text-content/80 hover:text-accent focus:text-accent disabled:opacity-60 disabled:cursor-not-allowed': {}, 
+                'border-radius': '0', 
+                '@apply focus:outline-none focus:ring-1 focus:ring-accent focus:ring-offset-0': {} 
+            },
+            '.file-input': { 
+              '@apply block w-full text-content/80 file:mr-4 file:py-2 file:px-4 file:border-0 file:font-semibold file:bg-primary-light file:text-content hover:file:bg-accent/20 file:cursor-pointer': {},
+              // Adjusted default text size
+              '@apply text-base sm:text-sm': {},
+              'border-radius': '0',
+            },
+            ':focus-visible': { 
+              '@apply outline-none ring-1 ring-accent ring-offset-0': {},
+              'border-radius': '0', 
+            }
+          });
+        }
+      ]
+    };
+    document.documentElement.style.setProperty('--color-primary', tailwind.config.theme.extend.colors.primary);
+    document.documentElement.style.setProperty('--color-primary-light', tailwind.config.theme.extend.colors['primary-light']);
+    document.documentElement.style.setProperty('--color-accent', tailwind.config.theme.extend.colors.accent);
+    document.documentElement.style.setProperty('--color-accent-darker', '#e07e00'); 
+    document.documentElement.style.setProperty('--color-content', tailwind.config.theme.extend.colors.content);
+    document.documentElement.style.setProperty('--color-card', tailwind.config.theme.extend.colors.card);
+  </script>
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.1.0",
+    "react/": "https://esm.sh/react@^19.1.0/",
+    "react-dom/": "https://esm.sh/react-dom@^19.1.0/",
+    "recharts": "https://esm.sh/recharts@^2.15.3",
+    "react-grid-layout": "https://esm.sh/react-grid-layout@^1.4.4",
+    "clsx": "https://esm.sh/clsx@^2.1.1",
+    "react-grid-layout/": "https://esm.sh/react-grid-layout@^1.5.1/",
+    "framer-motion": "https://esm.sh/framer-motion@^11.3.8",
+    "cls": "https://esm.sh/cls@^0.1.5"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+<body class="bg-primary text-content text-lg sm:text-base">
+  <div id="root"></div>
+  <script type="module" src="/src/index.tsx"></script>
+</body>
+</html>
