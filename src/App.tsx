@@ -68,7 +68,7 @@ import type {
 import {
   ArrowTrendingUpIcon, ArrowTrendingDownIcon,
   BellIcon, EnvelopeIcon, CogIcon, Bars3Icon
-} from './components/icons';
+} from '../components/icons';
 
 const ReactGridLayout = WidthProvider(ResponsiveGridLayoutComponent);
 
