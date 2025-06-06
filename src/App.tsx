@@ -52,10 +52,10 @@ import {
 } from './components';
 
 // Chart Component Imports (from subdirectories)
-import { MonthlyRevenueChart } from './components/charts/MonthlyRevenueChart';
-import { RevenueCategoryChart } from './components/charts/RevenueCategoryChart';
-import { ExpensesVsRevenueChart } from './components/charts/ExpensesVsRevenueChart';
-import { NetProfitVsFixedCostsChart } from './components/charts/NetProfitVsFixedCostsChart';
+import { MonthlyRevenueChart } from '../components/charts/MonthlyRevenueChart';
+import { RevenueCategoryChart } from '../components/charts/RevenueCategoryChart';
+import { ExpensesVsRevenueChart } from '../components/charts/ExpensesVsRevenueChart';
+import { NetProfitVsFixedCostsChart } from '../components/charts/NetProfitVsFixedCostsChart';
 
 // Type Imports
 import type {
