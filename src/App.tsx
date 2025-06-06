@@ -64,7 +64,7 @@ import type {
   ManagedFile, ProjectFolder, ChartFilterState, HistoricalTask, DashboardLayout, WidgetVisibilityState, CustomLayoutItem,
   NewsTickerItem, Invoice, Client, ServiceItem, TaskItem, ActiveView, Project, Event,
   GoogleDriveFile, GoogleDriveUser
-} from './types';
+} from '../types';
 import {
   ArrowTrendingUpIcon, ArrowTrendingDownIcon,
   BellIcon, EnvelopeIcon, CogIcon, Bars3Icon
