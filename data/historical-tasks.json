@@ -1,7 +1,0 @@
-
-[
-  { "keywords": ["logo", "rebranding"], "basePrice": 300, "urgency": "medium", "hours": 6 },
-  { "keywords": ["sito", "web", "e-commerce"], "basePrice": 1500, "urgency": "high", "hours": 30, "clientTier": "premium" },
-  { "keywords": ["wireframe", "app"], "basePrice": 80, "urgency": "medium", "hours": 1.5 },
-  { "keywords": ["consulenza", "ux"], "basePrice": 70, "urgency": "low", "hours": 1 }
-]
