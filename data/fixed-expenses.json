@@ -1,7 +1,0 @@
-
-[
-  { "month": "Gen", "year": 2023, "cost": 300 }, { "month": "Feb", "year": 2023, "cost": 300 }, { "month": "Mar", "year": 2023, "cost": 300 },
-  { "month": "Apr", "year": 2023, "cost": 320 }, { "month": "Mag", "year": 2023, "cost": 320 }, { "month": "Giu", "year": 2023, "cost": 320 },
-  { "month": "Lug", "year": 2024, "cost": 350 }, { "month": "Ago", "year": 2024, "cost": 350 }, { "month": "Set", "year": 2024, "cost": 350 },
-  { "month": "Ott", "year": 2024, "cost": 360 }, { "month": "Nov", "year": 2024, "cost": 360 }, { "month": "Dic", "year": 2024, "cost": 360 }
-]
