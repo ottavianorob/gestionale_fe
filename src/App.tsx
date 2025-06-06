@@ -49,7 +49,7 @@ import {
   ProjectsPage,
   GoogleDriveFilesViewer,
   SettingsPage
-} from './components';
+} from '../components';
 
 // Chart Component Imports (from subdirectories)
 import { MonthlyRevenueChart } from '../components/charts/MonthlyRevenueChart';
