@@ -49,13 +49,13 @@ import {
   ProjectsPage,
   GoogleDriveFilesViewer,
   SettingsPage
-} from './components';
+} from '../components';
 
 // Chart Component Imports (from subdirectories)
-import { MonthlyRevenueChart } from './components/charts/MonthlyRevenueChart';
-import { RevenueCategoryChart } from './components/charts/RevenueCategoryChart';
-import { ExpensesVsRevenueChart } from './components/charts/ExpensesVsRevenueChart';
-import { NetProfitVsFixedCostsChart } from './components/charts/NetProfitVsFixedCostsChart';
+import { MonthlyRevenueChart } from '../components/charts/MonthlyRevenueChart';
+import { RevenueCategoryChart } from '../components/charts/RevenueCategoryChart';
+import { ExpensesVsRevenueChart } from '../components/charts/ExpensesVsRevenueChart';
+import { NetProfitVsFixedCostsChart } from '../components/charts/NetProfitVsFixedCostsChart';
 
 // Type Imports
 import type {
@@ -68,7 +68,7 @@ import type {
 import {
   ArrowTrendingUpIcon, ArrowTrendingDownIcon,
   BellIcon, EnvelopeIcon, CogIcon, Bars3Icon
-} from './components/icons';
+} from '../components/icons';
 
 const ReactGridLayout = WidthProvider(ResponsiveGridLayoutComponent);
 
