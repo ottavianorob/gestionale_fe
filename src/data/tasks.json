@@ -1,0 +1,6262 @@
+[
+  {
+    "id": 1,
+    "idProgetto": 98,
+    "dataTask": "08/04/21",
+    "idServizio": 75,
+    "descrizioneTask": "Proposte creative volantini e relativi cartigli prezzo",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 600.00
+  },
+  {
+    "id": 2,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 3,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 4,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 5,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 46,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 6,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 45,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 7,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 8,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 9,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 70.00
+  },
+  {
+    "id": 10,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 11,
+    "idProgetto": 96,
+    "dataTask": "23/06/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 12,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 370.00
+  },
+  {
+    "id": 13,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 14,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 15,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 16,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 45,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 17,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 18,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 19,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 20,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 21,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 22,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 55,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 23,
+    "idProgetto": 95,
+    "dataTask": "26/07/21",
+    "idServizio": 39,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 24,
+    "idProgetto": 94,
+    "dataTask": "23/08/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 280.00
+  },
+  {
+    "id": 25,
+    "idProgetto": 94,
+    "dataTask": "23/08/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 26,
+    "idProgetto": 94,
+    "dataTask": "23/08/21",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 27,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 28,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 29,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 48,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 30,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 160.00
+  },
+  {
+    "id": 31,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 34,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 32,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 33,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 24,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 250.00
+  },
+  {
+    "id": 34,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 35,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 36,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 16,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 37,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 38,
+    "idProgetto": 93,
+    "dataTask": "31/08/21",
+    "idServizio": 24,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 250.00
+  },
+  {
+    "id": 39,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 260.00
+  },
+  {
+    "id": 40,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 41,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 65,
+    "descrizioneTask": "Immagini piatti",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 42,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 43,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 46,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 44,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 45,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 45,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 46,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 47,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 48,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 49,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 50,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 51,
+    "idProgetto": 92,
+    "dataTask": "08/09/21",
+    "idServizio": 55,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 52,
+    "idProgetto": 90,
+    "dataTask": "17/10/21",
+    "idServizio": 78,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 0.00
+  },
+  {
+    "id": 53,
+    "idProgetto": 90,
+    "dataTask": "17/10/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 110.00
+  },
+  {
+    "id": 54,
+    "idProgetto": 88,
+    "dataTask": "21/10/21",
+    "idServizio": 78,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 0.00
+  },
+  {
+    "id": 55,
+    "idProgetto": 88,
+    "dataTask": "21/10/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 110.00
+  },
+  {
+    "id": 56,
+    "idProgetto": 89,
+    "dataTask": "12/01/22",
+    "idServizio": 78,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 0.00
+  },
+  {
+    "id": 57,
+    "idProgetto": 89,
+    "dataTask": "12/01/22",
+    "idServizio": 18,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 110.00
+  },
+  {
+    "id": 58,
+    "idProgetto": 89,
+    "dataTask": "12/01/22",
+    "idServizio": 18,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 59,
+    "idProgetto": 91,
+    "dataTask": "06/10/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 60,
+    "idProgetto": 91,
+    "dataTask": "06/10/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 61,
+    "idProgetto": 91,
+    "dataTask": "06/10/21",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 62,
+    "idProgetto": 91,
+    "dataTask": "06/10/21",
+    "idServizio": 53,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 63,
+    "idProgetto": 91,
+    "dataTask": "06/10/21",
+    "idServizio": 50,
+    "descrizioneTask": null,
+    "numeroTask": 7,
+    "rateTask": 1,
+    "importoTask": 100.00
+  },
+  {
+    "id": 64,
+    "idProgetto": 91,
+    "dataTask": "06/10/21",
+    "idServizio": 52,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 50.00
+  },
+  {
+    "id": 65,
+    "idProgetto": 87,
+    "dataTask": "25/10/21",
+    "idServizio": 78,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 0.00
+  },
+  {
+    "id": 66,
+    "idProgetto": 87,
+    "dataTask": "25/10/21",
+    "idServizio": 33,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 110.00
+  },
+  {
+    "id": 67,
+    "idProgetto": 87,
+    "dataTask": "25/10/21",
+    "idServizio": 13,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 68,
+    "idProgetto": 87,
+    "dataTask": "25/10/21",
+    "idServizio": 13,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 69,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 190.00
+  },
+  {
+    "id": 70,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 71,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 40,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 72,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 41,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 73,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 74,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 34,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 250.00
+  },
+  {
+    "id": 75,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 24,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 350.00
+  },
+  {
+    "id": 76,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 29,
+    "descrizioneTask": null,
+    "numeroTask": 8,
+    "rateTask": 1,
+    "importoTask": 17.50
+  },
+  {
+    "id": 77,
+    "idProgetto": 86,
+    "dataTask": "16/11/21",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 110.00
+  },
+  {
+    "id": 78,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 79,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 80,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 65,
+    "descrizioneTask": "Immagini piatti",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 81,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 82,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 45,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 83,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 84,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 85,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 86,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 87,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 88,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 55,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 89,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 31,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 90,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 91,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 82,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 20.00
+  },
+  {
+    "id": 92,
+    "idProgetto": 85,
+    "dataTask": "19/11/21",
+    "idServizio": 5,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 93,
+    "idProgetto": 84,
+    "dataTask": "17/12/21",
+    "idServizio": 78,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 0.00
+  },
+  {
+    "id": 94,
+    "idProgetto": 84,
+    "dataTask": "17/12/21",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.00
+  },
+  {
+    "id": 95,
+    "idProgetto": 83,
+    "dataTask": "12/01/22",
+    "idServizio": 78,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 0.00
+  },
+  {
+    "id": 96,
+    "idProgetto": 83,
+    "dataTask": "12/01/22",
+    "idServizio": 24,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 97,
+    "idProgetto": 83,
+    "dataTask": "12/01/22",
+    "idServizio": 11,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 98,
+    "idProgetto": 83,
+    "dataTask": "12/01/22",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 99,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 250.00
+  },
+  {
+    "id": 100,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 101,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 102,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 103,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 17,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 104,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 105,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 106,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 34,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 107,
+    "idProgetto": 82,
+    "dataTask": "08/04/22",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 108,
+    "idProgetto": 77,
+    "dataTask": "27/05/22",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 109,
+    "idProgetto": 77,
+    "dataTask": "27/05/22",
+    "idServizio": 68,
+    "descrizioneTask": null,
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 110,
+    "idProgetto": 77,
+    "dataTask": "27/05/22",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 111,
+    "idProgetto": 77,
+    "dataTask": "27/05/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 112,
+    "idProgetto": 81,
+    "dataTask": "12/05/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 113,
+    "idProgetto": 81,
+    "dataTask": "12/05/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 114,
+    "idProgetto": 81,
+    "dataTask": "12/05/22",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 160.00
+  },
+  {
+    "id": 115,
+    "idProgetto": 81,
+    "dataTask": "12/05/22",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 7,
+    "rateTask": 1,
+    "importoTask": 70.00
+  },
+  {
+    "id": 116,
+    "idProgetto": 81,
+    "dataTask": "12/05/22",
+    "idServizio": 49,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 117,
+    "idProgetto": 81,
+    "dataTask": "12/05/22",
+    "idServizio": 14,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 30.00
+  },
+  {
+    "id": 118,
+    "idProgetto": 79,
+    "dataTask": "19/05/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 119,
+    "idProgetto": 79,
+    "dataTask": "19/05/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 120,
+    "idProgetto": 79,
+    "dataTask": "19/05/22",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 121,
+    "idProgetto": 80,
+    "dataTask": "15/05/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 160.00
+  },
+  {
+    "id": 122,
+    "idProgetto": 80,
+    "dataTask": "15/05/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 123,
+    "idProgetto": 80,
+    "dataTask": "15/05/22",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 124,
+    "idProgetto": 80,
+    "dataTask": "15/05/22",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 125,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 108.00
+  },
+  {
+    "id": 126,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 35,
+    "descrizioneTask": "Piantine location",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 132.00
+  },
+  {
+    "id": 127,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 68,
+    "descrizioneTask": "Badge",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 226.00
+  },
+  {
+    "id": 128,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 68,
+    "descrizioneTask": "Registrazione",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 126.00
+  },
+  {
+    "id": 129,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 68,
+    "descrizioneTask": "Oggetti/Dispositivi",
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 132.00
+  },
+  {
+    "id": 130,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 131,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 9,
+    "rateTask": 1,
+    "importoTask": 108.00
+  },
+  {
+    "id": 132,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 8,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 133,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 68,
+    "descrizioneTask": "Tavole Billboard",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 138.00
+  },
+  {
+    "id": 134,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 1,
+    "descrizioneTask": "Logo Proposte",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 248.00
+  },
+  {
+    "id": 135,
+    "idProgetto": 78,
+    "dataTask": "25/05/22",
+    "idServizio": 79,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 136,
+    "idProgetto": 76,
+    "dataTask": "22/06/22",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 108.00
+  },
+  {
+    "id": 137,
+    "idProgetto": 76,
+    "dataTask": "22/06/22",
+    "idServizio": 68,
+    "descrizioneTask": null,
+    "numeroTask": 9,
+    "rateTask": 1,
+    "importoTask": 138.00
+  },
+  {
+    "id": 138,
+    "idProgetto": 76,
+    "dataTask": "22/06/22",
+    "idServizio": 69,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 58.00
+  },
+  {
+    "id": 139,
+    "idProgetto": 76,
+    "dataTask": "22/06/22",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 140,
+    "idProgetto": 76,
+    "dataTask": "22/06/22",
+    "idServizio": 70,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 141,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 142,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 143,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 19,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 152.00
+  },
+  {
+    "id": 144,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 30,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 226.00
+  },
+  {
+    "id": 145,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 31,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 146,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 147,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.00
+  },
+  {
+    "id": 148,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 46,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 158.00
+  },
+  {
+    "id": 149,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 238.00
+  },
+  {
+    "id": 150,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 108.00
+  },
+  {
+    "id": 151,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 56,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 96.00
+  },
+  {
+    "id": 152,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 158.00
+  },
+  {
+    "id": 153,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 182.00
+  },
+  {
+    "id": 154,
+    "idProgetto": 74,
+    "dataTask": "12/07/22",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 155,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 156,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 157,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 40.00
+  },
+  {
+    "id": 158,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 28,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 159,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 46,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 158.00
+  },
+  {
+    "id": 160,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 50,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 132.00
+  },
+  {
+    "id": 161,
+    "idProgetto": 75,
+    "dataTask": "01/07/22",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.00
+  },
+  {
+    "id": 162,
+    "idProgetto": 73,
+    "dataTask": "25/09/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 163,
+    "idProgetto": 73,
+    "dataTask": "25/09/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 164,
+    "idProgetto": 73,
+    "dataTask": "25/09/22",
+    "idServizio": 49,
+    "descrizioneTask": "Summer Fuze Tea",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 165,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 166,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 167,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 46.00
+  },
+  {
+    "id": 168,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 11,
+    "descrizioneTask": "Vista Bar",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.00
+  },
+  {
+    "id": 169,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 20,
+    "descrizioneTask": "Bancone Bar A",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 336.00
+  },
+  {
+    "id": 170,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 20,
+    "descrizioneTask": "Bancone Bar B",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 234.00
+  },
+  {
+    "id": 171,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 37,
+    "descrizioneTask": "Billboards",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 176.00
+  },
+  {
+    "id": 172,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 53,
+    "descrizioneTask": "Area Coffee",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 88.00
+  },
+  {
+    "id": 173,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 43,
+    "descrizioneTask": "Pannelli esterni",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 121.00
+  },
+  {
+    "id": 174,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 25,
+    "descrizioneTask": "Freccia pavimento",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 40.00
+  },
+  {
+    "id": 175,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 53,
+    "descrizioneTask": "Area Ascensore",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 88.00
+  },
+  {
+    "id": 176,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 42,
+    "descrizioneTask": "Pannello piano",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 177,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 50,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 126.00
+  },
+  {
+    "id": 178,
+    "idProgetto": 72,
+    "dataTask": "27/09/22",
+    "idServizio": 55,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 32.00
+  },
+  {
+    "id": 179,
+    "idProgetto": 70,
+    "dataTask": "25/10/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 180,
+    "idProgetto": 70,
+    "dataTask": "25/10/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 181,
+    "idProgetto": 70,
+    "dataTask": "25/10/22",
+    "idServizio": 13,
+    "descrizioneTask": "Bin",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 182,
+    "idProgetto": 70,
+    "dataTask": "25/10/22",
+    "idServizio": 27,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 183,
+    "idProgetto": 70,
+    "dataTask": "25/10/22",
+    "idServizio": 50,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 184,
+    "idProgetto": 70,
+    "dataTask": "25/10/22",
+    "idServizio": 13,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 82.00
+  },
+  {
+    "id": 185,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 186,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 187,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 70.00
+  },
+  {
+    "id": 188,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 15,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 189,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 11,
+    "descrizioneTask": "Corners",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 190,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 21,
+    "descrizioneTask": "Gagliardetto",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 63.00
+  },
+  {
+    "id": 191,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 21,
+    "descrizioneTask": "Giubotto",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 82.00
+  },
+  {
+    "id": 192,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 193,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 14,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 30.00
+  },
+  {
+    "id": 194,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 47,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 22.00
+  },
+  {
+    "id": 195,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 50,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 196,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 7,
+    "descrizioneTask": "Schermate Maxischermo",
+    "numeroTask": 13,
+    "rateTask": 1,
+    "importoTask": 25.00
+  },
+  {
+    "id": 197,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 55,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 198,
+    "idProgetto": 71,
+    "dataTask": "18/10/22",
+    "idServizio": 47,
+    "descrizioneTask": "Bandiere",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 199,
+    "idProgetto": 69,
+    "dataTask": "26/10/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 200,
+    "idProgetto": 69,
+    "dataTask": "26/10/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 201,
+    "idProgetto": 69,
+    "dataTask": "26/10/22",
+    "idServizio": 49,
+    "descrizioneTask": "Summer Fuze Tea",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 202,
+    "idProgetto": 68,
+    "dataTask": "27/10/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 203,
+    "idProgetto": 68,
+    "dataTask": "27/10/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 204,
+    "idProgetto": 68,
+    "dataTask": "27/10/22",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 205,
+    "idProgetto": 68,
+    "dataTask": "27/10/22",
+    "idServizio": 28,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 206,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 270.00
+  },
+  {
+    "id": 207,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 208,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 65,
+    "descrizioneTask": "Ricalibrazione e fotoritocco immagini",
+    "numeroTask": 8,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 209,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 83,
+    "descrizioneTask": "Albero di Natale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.00
+  },
+  {
+    "id": 210,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 13,
+    "descrizioneTask": "Bin",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 211,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 13,
+    "descrizioneTask": "Bin Cover",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 212,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 13,
+    "descrizioneTask": "Box Clienti",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 213,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 26,
+    "descrizioneTask": "Box Clienti Flyer",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 122.00
+  },
+  {
+    "id": 214,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 83,
+    "descrizioneTask": "Carrellino",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 215,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 60,
+    "descrizioneTask": "Casetta Cassa",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 364.00
+  },
+  {
+    "id": 216,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 60,
+    "descrizioneTask": "Casetta Giochi (Tiro + Lancio)",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 364.00
+  },
+  {
+    "id": 217,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 60,
+    "descrizioneTask": "Casetta giochi (Elementi gioco)",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 542.00
+  },
+  {
+    "id": 218,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 60,
+    "descrizioneTask": "Casetta Pacchi",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 364.00
+  },
+  {
+    "id": 219,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 60,
+    "descrizioneTask": "Casetta Photobooth (+ fondali)",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 482.00
+  },
+  {
+    "id": 220,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 26,
+    "descrizioneTask": "Casetta Photobooth Flyer A4",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 148.00
+  },
+  {
+    "id": 221,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 60,
+    "descrizioneTask": "Casetta RDS",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 364.00
+  },
+  {
+    "id": 222,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 83,
+    "descrizioneTask": "Copertura Ledwall",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 223,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 20,
+    "descrizioneTask": "Deskangoli arrotondati",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 250.00
+  },
+  {
+    "id": 224,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 26,
+    "descrizioneTask": "Flyer Pizza Speciale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 225,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 63,
+    "descrizioneTask": "Foodtruck Completo",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 543.00
+  },
+  {
+    "id": 226,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 49,
+    "descrizioneTask": "Frigo Rivestimento",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 227,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 84,
+    "descrizioneTask": "Gettoni",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 45.00
+  },
+  {
+    "id": 228,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Gioca A4",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 148.00
+  },
+  {
+    "id": 229,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Food A4",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 148.00
+  },
+  {
+    "id": 230,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 39,
+    "descrizioneTask": "Locandina Food A5",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 122.00
+  },
+  {
+    "id": 231,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 49,
+    "descrizioneTask": "Macchinetta Photo",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 232,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 7,
+    "descrizioneTask": "Maxischermo Slides",
+    "numeroTask": 13,
+    "rateTask": 1,
+    "importoTask": 34.00
+  },
+  {
+    "id": 233,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 12,
+    "descrizioneTask": "Pack Gift Palla di legno",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 134.00
+  },
+  {
+    "id": 234,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 49,
+    "descrizioneTask": "Recycle Machine XMAS",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 235,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 84,
+    "descrizioneTask": "Tape",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 236,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 20,
+    "descrizioneTask": "Tavolo mangiainpiedi",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 237,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 9,
+    "descrizioneTask": "TNT",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 64.00
+  },
+  {
+    "id": 238,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 50,
+    "descrizioneTask": "Totem Food",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 239,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 50,
+    "descrizioneTask": "Totem Fun",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 240,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 50,
+    "descrizioneTask": "Totem Ricicla",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 241,
+    "idProgetto": 67,
+    "dataTask": "28/10/22",
+    "idServizio": 63,
+    "descrizioneTask": "Truck CC XMAS Completo",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 543.00
+  },
+  {
+    "id": 242,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 243,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 102.00
+  },
+  {
+    "id": 244,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 19,
+    "descrizioneTask": "Vasca",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 158.00
+  },
+  {
+    "id": 245,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 30,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 234.00
+  },
+  {
+    "id": 246,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 31,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 204.00
+  },
+  {
+    "id": 247,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 166.00
+  },
+  {
+    "id": 248,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 136.00
+  },
+  {
+    "id": 249,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 46,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 162.00
+  },
+  {
+    "id": 250,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 51,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 242.00
+  },
+  {
+    "id": 251,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 54,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 112.00
+  },
+  {
+    "id": 252,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 104.00
+  },
+  {
+    "id": 253,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 162.00
+  },
+  {
+    "id": 254,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 188.00
+  },
+  {
+    "id": 255,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 59,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 114.00
+  },
+  {
+    "id": 256,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 118.00
+  },
+  {
+    "id": 257,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 23,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 258,
+    "idProgetto": 66,
+    "dataTask": "16/11/22",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 259,
+    "idProgetto": 65,
+    "dataTask": "13/12/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 260,
+    "idProgetto": 65,
+    "dataTask": "13/12/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 261,
+    "idProgetto": 65,
+    "dataTask": "13/12/22",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 262,
+    "idProgetto": 65,
+    "dataTask": "13/12/22",
+    "idServizio": 16,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 263,
+    "idProgetto": 65,
+    "dataTask": "13/12/22",
+    "idServizio": 85,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.00
+  },
+  {
+    "id": 264,
+    "idProgetto": 65,
+    "dataTask": "13/12/22",
+    "idServizio": 22,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 265,
+    "idProgetto": 63,
+    "dataTask": "18/12/22",
+    "idServizio": 68,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 74.00
+  },
+  {
+    "id": 266,
+    "idProgetto": 63,
+    "dataTask": "18/12/22",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 10,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 267,
+    "idProgetto": 63,
+    "dataTask": "18/12/22",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 244.00
+  },
+  {
+    "id": 268,
+    "idProgetto": 63,
+    "dataTask": "18/12/22",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 194.00
+  },
+  {
+    "id": 269,
+    "idProgetto": 62,
+    "dataTask": "21/12/22",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 270,
+    "idProgetto": 62,
+    "dataTask": "21/12/22",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 271,
+    "idProgetto": 62,
+    "dataTask": "21/12/22",
+    "idServizio": 34,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 272,
+    "idProgetto": 62,
+    "dataTask": "21/12/22",
+    "idServizio": 12,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 198.00
+  },
+  {
+    "id": 273,
+    "idProgetto": 60,
+    "dataTask": "14/02/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 274,
+    "idProgetto": 60,
+    "dataTask": "14/02/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 275,
+    "idProgetto": 60,
+    "dataTask": "14/02/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 85.00
+  },
+  {
+    "id": 276,
+    "idProgetto": 60,
+    "dataTask": "14/02/23",
+    "idServizio": 86,
+    "descrizioneTask": "Festival",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 277,
+    "idProgetto": 60,
+    "dataTask": "14/02/23",
+    "idServizio": 86,
+    "descrizioneTask": "Festival varianti",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 278,
+    "idProgetto": 60,
+    "dataTask": "14/02/23",
+    "idServizio": 86,
+    "descrizioneTask": "Premi",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 166.00
+  },
+  {
+    "id": 279,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 270.00
+  },
+  {
+    "id": 280,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 281,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 282,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 166.00
+  },
+  {
+    "id": 283,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 44,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 118.00
+  },
+  {
+    "id": 284,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 40,
+    "descrizioneTask": "Surchemise",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 285,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 29,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 250.00
+  },
+  {
+    "id": 286,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 57,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 188.00
+  },
+  {
+    "id": 287,
+    "idProgetto": 61,
+    "dataTask": "02/02/23",
+    "idServizio": 22,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 288,
+    "idProgetto": 59,
+    "dataTask": "16/03/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 289,
+    "idProgetto": 59,
+    "dataTask": "16/03/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 290,
+    "idProgetto": 59,
+    "dataTask": "16/03/23",
+    "idServizio": 7,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 126.00
+  },
+  {
+    "id": 291,
+    "idProgetto": 59,
+    "dataTask": "16/03/23",
+    "idServizio": 11,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 292,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 293,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 294,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 46.00
+  },
+  {
+    "id": 295,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 42,
+    "descrizioneTask": "Banco centrale superiore",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 65.00
+  },
+  {
+    "id": 296,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 42,
+    "descrizioneTask": "Banco centrale inferiore",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 74.00
+  },
+  {
+    "id": 297,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 43,
+    "descrizioneTask": "Laterali",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 62.00
+  },
+  {
+    "id": 298,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 42,
+    "descrizioneTask": "Colonne",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 138.00
+  },
+  {
+    "id": 299,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 62,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 300,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 11,
+    "descrizioneTask": "Retrobanco",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 56.00
+  },
+  {
+    "id": 301,
+    "idProgetto": 58,
+    "dataTask": "16/03/23",
+    "idServizio": 7,
+    "descrizioneTask": "Schermata Bar",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 126.00
+  },
+  {
+    "id": 302,
+    "idProgetto": 57,
+    "dataTask": "22/03/23",
+    "idServizio": 87,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 303,
+    "idProgetto": 57,
+    "dataTask": "22/03/23",
+    "idServizio": 28,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 50.00
+  },
+  {
+    "id": 304,
+    "idProgetto": 56,
+    "dataTask": "28/03/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 305,
+    "idProgetto": 56,
+    "dataTask": "28/03/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 306,
+    "idProgetto": 56,
+    "dataTask": "28/03/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 58.00
+  },
+  {
+    "id": 307,
+    "idProgetto": 56,
+    "dataTask": "28/03/23",
+    "idServizio": 12,
+    "descrizioneTask": "Couvette",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 308,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 309,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 102.00
+  },
+  {
+    "id": 310,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 58.00
+  },
+  {
+    "id": 311,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 22,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 260.00
+  },
+  {
+    "id": 312,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 104.00
+  },
+  {
+    "id": 313,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 70,
+    "descrizioneTask": "Espositore",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 156.00
+  },
+  {
+    "id": 314,
+    "idProgetto": 54,
+    "dataTask": "13/04/23",
+    "idServizio": 70,
+    "descrizioneTask": "Vetrofania",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 58.00
+  },
+  {
+    "id": 315,
+    "idProgetto": 51,
+    "dataTask": "21/04/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 316,
+    "idProgetto": 51,
+    "dataTask": "21/04/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 102.00
+  },
+  {
+    "id": 317,
+    "idProgetto": 51,
+    "dataTask": "21/04/23",
+    "idServizio": 28,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 125.00
+  },
+  {
+    "id": 318,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 143.00
+  },
+  {
+    "id": 319,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 320,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 20,
+    "rateTask": 1,
+    "importoTask": 156.00
+  },
+  {
+    "id": 321,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 13,
+    "rateTask": 1,
+    "importoTask": 194.00
+  },
+  {
+    "id": 322,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 60,
+    "descrizioneTask": "Video 360",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 228.00
+  },
+  {
+    "id": 323,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 60,
+    "descrizioneTask": "Altalena",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 324,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 20,
+    "descrizioneTask": "Banco DJ",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 325,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 43,
+    "descrizioneTask": "Cartello Ruota Panoramica",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.00
+  },
+  {
+    "id": 326,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 60,
+    "descrizioneTask": "Duet Station",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 327,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 43,
+    "descrizioneTask": "Colonna Duet Station",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 220.00
+  },
+  {
+    "id": 328,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 42,
+    "descrizioneTask": "Container Parete",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 263.00
+  },
+  {
+    "id": 329,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 42,
+    "descrizioneTask": "Giant Bottle Pedana",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 330,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 60,
+    "descrizioneTask": "Kaleidoscopio",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 228.00
+  },
+  {
+    "id": 331,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 42,
+    "descrizioneTask": "Pareti esterne Container",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 228.00
+  },
+  {
+    "id": 332,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 42,
+    "descrizioneTask": "Pedana Social",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 333,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 60,
+    "descrizioneTask": "Platforms",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 132.00
+  },
+  {
+    "id": 334,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 47,
+    "descrizioneTask": "Props",
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 47.00
+  },
+  {
+    "id": 335,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 49,
+    "descrizioneTask": "Recharge Station",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 240.00
+  },
+  {
+    "id": 336,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 84,
+    "descrizioneTask": "Trolley CC",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 337,
+    "idProgetto": 53,
+    "dataTask": "14/04/23",
+    "idServizio": 43,
+    "descrizioneTask": "Trucco Station",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 76.00
+  },
+  {
+    "id": 338,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 339,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 340,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 35,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 112.00
+  },
+  {
+    "id": 341,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 36,
+    "descrizioneTask": "120x180",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 182.00
+  },
+  {
+    "id": 342,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 9,
+    "descrizioneTask": "200x140",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 343,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 9,
+    "descrizioneTask": "300x200",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 235.00
+  },
+  {
+    "id": 344,
+    "idProgetto": 52,
+    "dataTask": "19/04/23",
+    "idServizio": 8,
+    "descrizioneTask": "600x300",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 274.00
+  },
+  {
+    "id": 345,
+    "idProgetto": 55,
+    "dataTask": "06/04/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 346,
+    "idProgetto": 55,
+    "dataTask": "06/04/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 347,
+    "idProgetto": 55,
+    "dataTask": "06/04/23",
+    "idServizio": 49,
+    "descrizioneTask": "Recycle Machine Design Week",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 348,
+    "idProgetto": 44,
+    "dataTask": "30/05/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 349,
+    "idProgetto": 44,
+    "dataTask": "30/05/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 350,
+    "idProgetto": 44,
+    "dataTask": "30/05/23",
+    "idServizio": 49,
+    "descrizioneTask": "Recycle Machine Evento Green&Blue",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 351,
+    "idProgetto": 49,
+    "dataTask": "09/05/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 352,
+    "idProgetto": 49,
+    "dataTask": "09/05/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 353,
+    "idProgetto": 49,
+    "dataTask": "09/05/23",
+    "idServizio": 65,
+    "descrizioneTask": "Foto Stadio",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 102.00
+  },
+  {
+    "id": 354,
+    "idProgetto": 49,
+    "dataTask": "09/05/23",
+    "idServizio": 11,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 355,
+    "idProgetto": 49,
+    "dataTask": "09/05/23",
+    "idServizio": 84,
+    "descrizioneTask": "Clap Clap",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 96.00
+  },
+  {
+    "id": 356,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 357,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 358,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 359,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 43,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 74.00
+  },
+  {
+    "id": 360,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 50,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 126.00
+  },
+  {
+    "id": 361,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 50,
+    "descrizioneTask": "Totem con finestra",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 156.00
+  },
+  {
+    "id": 362,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 55,
+    "descrizioneTask": "Patch disclaimer e scritta \"Napoli\" prespaziata",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 363,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 364,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 365,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 55,
+    "descrizioneTask": "Patch disclaimer e scritta \"Caserta\" prespaziata",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 366,
+    "idProgetto": 48,
+    "dataTask": "15/05/23",
+    "idServizio": 55,
+    "descrizioneTask": "Patch disclaimer e scritta \"Milano\" prespaziata",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 367,
+    "idProgetto": 43,
+    "dataTask": "31/05/23",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 108.00
+  },
+  {
+    "id": 368,
+    "idProgetto": 43,
+    "dataTask": "31/05/23",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 372.00
+  },
+  {
+    "id": 369,
+    "idProgetto": 43,
+    "dataTask": "31/05/23",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 204.00
+  },
+  {
+    "id": 370,
+    "idProgetto": 43,
+    "dataTask": "31/05/23",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 11,
+    "rateTask": 1,
+    "importoTask": 222.00
+  },
+  {
+    "id": 371,
+    "idProgetto": 46,
+    "dataTask": "22/05/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 372,
+    "idProgetto": 46,
+    "dataTask": "22/05/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 373,
+    "idProgetto": 46,
+    "dataTask": "22/05/23",
+    "idServizio": 20,
+    "descrizioneTask": "Pouf",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 112.00
+  },
+  {
+    "id": 374,
+    "idProgetto": 46,
+    "dataTask": "22/05/23",
+    "idServizio": 47,
+    "descrizioneTask": null,
+    "numeroTask": 9,
+    "rateTask": 1,
+    "importoTask": 34.00
+  },
+  {
+    "id": 375,
+    "idProgetto": 50,
+    "dataTask": "04/05/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 376,
+    "idProgetto": 50,
+    "dataTask": "04/05/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 377,
+    "idProgetto": 50,
+    "dataTask": "04/05/23",
+    "idServizio": 15,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 74.00
+  },
+  {
+    "id": 378,
+    "idProgetto": 50,
+    "dataTask": "04/05/23",
+    "idServizio": 12,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 120.00
+  },
+  {
+    "id": 379,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 380,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 381,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 156.00
+  },
+  {
+    "id": 382,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 194.00
+  },
+  {
+    "id": 383,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 49,
+    "descrizioneTask": "Cabina Foto",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 432.00
+  },
+  {
+    "id": 384,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 27,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 92.00
+  },
+  {
+    "id": 385,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 52,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 386,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 42,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 387,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 21,
+    "descrizioneTask": "Hat Element",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 47.00
+  },
+  {
+    "id": 388,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 21,
+    "descrizioneTask": "T-Shirt Element",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 47.00
+  },
+  {
+    "id": 389,
+    "idProgetto": 42,
+    "dataTask": "06/06/23",
+    "idServizio": 84,
+    "descrizioneTask": "Trolley",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 390,
+    "idProgetto": 40,
+    "dataTask": "21/06/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 391,
+    "idProgetto": 40,
+    "dataTask": "21/06/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 392,
+    "idProgetto": 40,
+    "dataTask": "21/06/23",
+    "idServizio": 89,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 393,
+    "idProgetto": 40,
+    "dataTask": "21/06/23",
+    "idServizio": 88,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 190.00
+  },
+  {
+    "id": 394,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 395,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 396,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 156.00
+  },
+  {
+    "id": 397,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 194.00
+  },
+  {
+    "id": 398,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 20,
+    "descrizioneTask": "Desk DJ",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 399,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 20,
+    "descrizioneTask": "Desk Hostess",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 400,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 43,
+    "descrizioneTask": "Logo Pedana",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 228.00
+  },
+  {
+    "id": 401,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 43,
+    "descrizioneTask": "Stand Colonne",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 132.00
+  },
+  {
+    "id": 402,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 42,
+    "descrizioneTask": "Stand Crowner",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 403,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 43,
+    "descrizioneTask": "Stand fianco",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 244.00
+  },
+  {
+    "id": 404,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 42,
+    "descrizioneTask": "Stand fondale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 432.00
+  },
+  {
+    "id": 405,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 42,
+    "descrizioneTask": "Stand retro",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 406,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 43,
+    "descrizioneTask": "Stand tenda",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 112.00
+  },
+  {
+    "id": 407,
+    "idProgetto": 41,
+    "dataTask": "08/06/23",
+    "idServizio": 12,
+    "descrizioneTask": "Tasca Polaroid",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 92.00
+  },
+  {
+    "id": 408,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 409,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 410,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 156.00
+  },
+  {
+    "id": 411,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 194.00
+  },
+  {
+    "id": 412,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 11,
+    "descrizioneTask": "Backdrop (fronte - retro - frozen)",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 684.00
+  },
+  {
+    "id": 413,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 27,
+    "descrizioneTask": "Foto Template",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 92.00
+  },
+  {
+    "id": 414,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 83,
+    "descrizioneTask": "Nebulaizer Vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 260.00
+  },
+  {
+    "id": 415,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 42,
+    "descrizioneTask": "Pedana",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 416,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 49,
+    "descrizioneTask": "Photobooth Vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 220.00
+  },
+  {
+    "id": 417,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 43,
+    "descrizioneTask": "Stand",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 196.00
+  },
+  {
+    "id": 418,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 21,
+    "descrizioneTask": "Hat Elements",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 419,
+    "idProgetto": 45,
+    "dataTask": "23/05/23",
+    "idServizio": 21,
+    "descrizioneTask": "T-Shirt Elements",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 420,
+    "idProgetto": 38,
+    "dataTask": "29/08/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.00
+  },
+  {
+    "id": 421,
+    "idProgetto": 38,
+    "dataTask": "29/08/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 422,
+    "idProgetto": 38,
+    "dataTask": "29/08/23",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Key Visual \"Napoli\"",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 123.00
+  },
+  {
+    "id": 423,
+    "idProgetto": 38,
+    "dataTask": "29/08/23",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Key Visual \"Juve\"",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 123.00
+  },
+  {
+    "id": 424,
+    "idProgetto": 39,
+    "dataTask": "29/08/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 425,
+    "idProgetto": 39,
+    "dataTask": "29/08/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 426,
+    "idProgetto": 39,
+    "dataTask": "29/08/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 110.00
+  },
+  {
+    "id": 427,
+    "idProgetto": 39,
+    "dataTask": "29/08/23",
+    "idServizio": 11,
+    "descrizioneTask": "Backdrop Tribuna",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 380.00
+  },
+  {
+    "id": 428,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 429,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 135.00
+  },
+  {
+    "id": 430,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 15,
+    "descrizioneTask": "Buono Pizza",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 89.00
+  },
+  {
+    "id": 431,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 90,
+    "descrizioneTask": "Rotair",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 432,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 43,
+    "descrizioneTask": "Tavolo Forex",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 89.00
+  },
+  {
+    "id": 433,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 11,
+    "descrizioneTask": "Backdrop",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.00
+  },
+  {
+    "id": 434,
+    "idProgetto": 36,
+    "dataTask": "15/09/23",
+    "idServizio": 50,
+    "descrizioneTask": "Totem Menu",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 126.00
+  },
+  {
+    "id": 435,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 436,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 437,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina 23 x 30 cm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 96.00
+  },
+  {
+    "id": 438,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 10,
+    "descrizioneTask": "Locandina 39 x 81 cm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 439,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 10,
+    "descrizioneTask": "Locandina 42 x 86 cm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 162.00
+  },
+  {
+    "id": 440,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 28,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 441,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 55,
+    "descrizioneTask": "Flyer A5",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 153.00
+  },
+  {
+    "id": 442,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 52,
+    "descrizioneTask": null,
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 443,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 21,
+    "descrizioneTask": "T-Shirt",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.00
+  },
+  {
+    "id": 444,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 43,
+    "descrizioneTask": "Edicola Colonna",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 134.00
+  },
+  {
+    "id": 445,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 19,
+    "descrizioneTask": "Edicola Cappello",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 56.00
+  },
+  {
+    "id": 446,
+    "idProgetto": 37,
+    "dataTask": "07/09/23",
+    "idServizio": 43,
+    "descrizioneTask": "Edicola Banner",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 447,
+    "idProgetto": 35,
+    "dataTask": "20/09/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 448,
+    "idProgetto": 35,
+    "dataTask": "20/09/23",
+    "idServizio": 38,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 449,
+    "idProgetto": 35,
+    "dataTask": "20/09/23",
+    "idServizio": 55,
+    "descrizioneTask": "Patch disclaimer e scritta \"Roma\" prespaziata",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 450,
+    "idProgetto": 32,
+    "dataTask": "10/10/23",
+    "idServizio": 5,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 451,
+    "idProgetto": 32,
+    "dataTask": "10/10/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 452,
+    "idProgetto": 32,
+    "dataTask": "10/10/23",
+    "idServizio": 34,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 114.00
+  },
+  {
+    "id": 453,
+    "idProgetto": 32,
+    "dataTask": "10/10/23",
+    "idServizio": 32,
+    "descrizioneTask": "Leaflet Tavolo",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 132.00
+  },
+  {
+    "id": 454,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 270.00
+  },
+  {
+    "id": 455,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 456,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 60.00
+  },
+  {
+    "id": 457,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 63,
+    "descrizioneTask": "Truck vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 543.00
+  },
+  {
+    "id": 458,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 14,
+    "descrizioneTask": "Braccialetto",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 35.00
+  },
+  {
+    "id": 459,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 11,
+    "descrizioneTask": "Backdrop",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 163.00
+  },
+  {
+    "id": 460,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 43,
+    "descrizioneTask": "Bollo podio",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 112.00
+  },
+  {
+    "id": 461,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 42,
+    "descrizioneTask": "Giant Bottle Label",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.00
+  },
+  {
+    "id": 462,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 12,
+    "descrizioneTask": "Box Gift",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 463,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 15,
+    "descrizioneTask": "Coupon B/V",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 38.00
+  },
+  {
+    "id": 464,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 20,
+    "descrizioneTask": "Desk Banco Alimentare",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 153.00
+  },
+  {
+    "id": 465,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 20,
+    "descrizioneTask": "Desk Magic",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 153.00
+  },
+  {
+    "id": 466,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 35,
+    "descrizioneTask": "Flyer B/V",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 67.00
+  },
+  {
+    "id": 467,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 28,
+    "descrizioneTask": "Flyer B/V",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 35.00
+  },
+  {
+    "id": 468,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 63,
+    "descrizioneTask": "Foodtruck vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 543.00
+  },
+  {
+    "id": 469,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 50,
+    "descrizioneTask": "Foodtruck Totem",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 470,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 60,
+    "descrizioneTask": "Igloo vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 186.00
+  },
+  {
+    "id": 471,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 43,
+    "descrizioneTask": "Tavolo mangiainpiedi",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.00
+  },
+  {
+    "id": 472,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 63,
+    "descrizioneTask": "Photo Truck",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 76.00
+  },
+  {
+    "id": 473,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 43,
+    "descrizioneTask": "Podio",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 134.00
+  },
+  {
+    "id": 474,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 47,
+    "descrizioneTask": "Props",
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 54.00
+  },
+  {
+    "id": 475,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 11,
+    "descrizioneTask": "Quinta Quiz",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 182.00
+  },
+  {
+    "id": 476,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 9,
+    "descrizioneTask": "TNT B/V",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 62.00
+  },
+  {
+    "id": 477,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 50,
+    "descrizioneTask": "Truck Totem",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 478,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 50,
+    "descrizioneTask": "Videoteca Totem",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 144.00
+  },
+  {
+    "id": 479,
+    "idProgetto": 33,
+    "dataTask": "09/10/23",
+    "idServizio": 63,
+    "descrizioneTask": "Truck vestizione interni",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 215.00
+  },
+  {
+    "id": 480,
+    "idProgetto": 31,
+    "dataTask": "06/11/23",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 481,
+    "idProgetto": 31,
+    "dataTask": "06/11/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 98.00
+  },
+  {
+    "id": 482,
+    "idProgetto": 31,
+    "dataTask": "06/11/23",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 14,
+    "rateTask": 1,
+    "importoTask": 75.00
+  },
+  {
+    "id": 483,
+    "idProgetto": 31,
+    "dataTask": "06/11/23",
+    "idServizio": 16,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.00
+  },
+  {
+    "id": 484,
+    "idProgetto": 31,
+    "dataTask": "06/11/23",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.00
+  },
+  {
+    "id": 485,
+    "idProgetto": 31,
+    "dataTask": "06/11/23",
+    "idServizio": 22,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.00
+  },
+  {
+    "id": 486,
+    "idProgetto": 30,
+    "dataTask": "08/11/23",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 106.00
+  },
+  {
+    "id": 487,
+    "idProgetto": 30,
+    "dataTask": "08/11/23",
+    "idServizio": 11,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 163.00
+  },
+  {
+    "id": 488,
+    "idProgetto": 30,
+    "dataTask": "08/11/23",
+    "idServizio": 20,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 153.00
+  },
+  {
+    "id": 489,
+    "idProgetto": 29,
+    "dataTask": "09/01/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.00
+  },
+  {
+    "id": 490,
+    "idProgetto": 29,
+    "dataTask": "09/01/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 491,
+    "idProgetto": 29,
+    "dataTask": "09/01/24",
+    "idServizio": 65,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 93.00
+  },
+  {
+    "id": 492,
+    "idProgetto": 29,
+    "dataTask": "09/01/24",
+    "idServizio": 38,
+    "descrizioneTask": "Locandina Bottiglia",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 493,
+    "idProgetto": 29,
+    "dataTask": "09/01/24",
+    "idServizio": 38,
+    "descrizioneTask": "Locandina Lattina",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 154.00
+  },
+  {
+    "id": 494,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.00
+  },
+  {
+    "id": 495,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.00
+  },
+  {
+    "id": 496,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 87,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 235.00
+  },
+  {
+    "id": 497,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 7,
+    "descrizioneTask": "Totem Photobooth - Polaroid",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 43.00
+  },
+  {
+    "id": 498,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 7,
+    "descrizioneTask": "Totem Photobooth - Microsite",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 52.00
+  },
+  {
+    "id": 499,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 7,
+    "descrizioneTask": "Totem Photobooth - Email",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 52.00
+  },
+  {
+    "id": 500,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 7,
+    "descrizioneTask": "Totem Photobooth - iPad Branding",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 35.00
+  },
+  {
+    "id": 501,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 90.00
+  },
+  {
+    "id": 502,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 70,
+    "descrizioneTask": null,
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 58.0
+  },
+  {
+    "id": 503,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 55,
+    "descrizioneTask": "Adesiva vetrate esterne",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 188.0
+  },
+  {
+    "id": 504,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 20,
+    "descrizioneTask": "Bancone Bar",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 132.0
+  },
+  {
+    "id": 505,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 55,
+    "descrizioneTask": "Flyer Sticker",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 153.0
+  },
+  {
+    "id": 506,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 43,
+    "descrizioneTask": "Pannelli esterni",
+    "numeroTask": 5,
+    "rateTask": 1,
+    "importoTask": 57.0
+  },
+  {
+    "id": 507,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 43,
+    "descrizioneTask": "Pannelli interni",
+    "numeroTask": 31,
+    "rateTask": 1,
+    "importoTask": 57.0
+  },
+  {
+    "id": 508,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 47,
+    "descrizioneTask": "Props",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 47.0
+  },
+  {
+    "id": 509,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 20,
+    "descrizioneTask": "Sedute",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 74.0
+  },
+  {
+    "id": 510,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 55,
+    "descrizioneTask": "Sticker",
+    "numeroTask": 7,
+    "rateTask": 1,
+    "importoTask": 42.0
+  },
+  {
+    "id": 511,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 50,
+    "descrizioneTask": "Totem Giochi",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 132.0
+  },
+  {
+    "id": 512,
+    "idProgetto": 28,
+    "dataTask": "12/01/24",
+    "idServizio": 50,
+    "descrizioneTask": "Totem Photobooth",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 156.0
+  },
+  {
+    "id": 513,
+    "idProgetto": 27,
+    "dataTask": "12/01/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.0
+  },
+  {
+    "id": 514,
+    "idProgetto": 27,
+    "dataTask": "12/01/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.0
+  },
+  {
+    "id": 515,
+    "idProgetto": 27,
+    "dataTask": "12/01/24",
+    "idServizio": 84,
+    "descrizioneTask": "Rivestimento bicchiere A",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 122.0
+  },
+  {
+    "id": 516,
+    "idProgetto": 27,
+    "dataTask": "12/01/24",
+    "idServizio": 84,
+    "descrizioneTask": "Rivestimento bicchiere B",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 122.0
+  },
+  {
+    "id": 517,
+    "idProgetto": 27,
+    "dataTask": "12/01/24",
+    "idServizio": 84,
+    "descrizioneTask": "Rivestimento bicchiere C",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 122.0
+  },
+  {
+    "id": 518,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.0
+  },
+  {
+    "id": 519,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.0
+  },
+  {
+    "id": 520,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner A varie",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 244.0
+  },
+  {
+    "id": 521,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner B varie",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 236.0
+  },
+  {
+    "id": 522,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner C varie",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.0
+  },
+  {
+    "id": 523,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 44,
+    "descrizioneTask": "Pendolino varie",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 146.0
+  },
+  {
+    "id": 524,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 65,
+    "descrizioneTask": "Fotoritocco Key Visual",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 90.0
+  },
+  {
+    "id": 525,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 66,
+    "descrizioneTask": "Fotoritocco e ricostruzione Packs",
+    "numeroTask": 15,
+    "rateTask": 1,
+    "importoTask": 32.0
+  },
+  {
+    "id": 526,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 75,
+    "descrizioneTask": "Volantini Orizzontali e Verticali A5",
+    "numeroTask": 7,
+    "rateTask": 1,
+    "importoTask": 142.0
+  },
+  {
+    "id": 527,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 75,
+    "descrizioneTask": "Volantini Orizzontali e Verticali A4",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 166.0
+  },
+  {
+    "id": 528,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 59,
+    "descrizioneTask": "Volantino Italmark 131 x 115 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.0
+  },
+  {
+    "id": 529,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 36,
+    "descrizioneTask": "Volantino Visotto 100 x 60 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 112.0
+  },
+  {
+    "id": 530,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner 900 x 200 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 402.0
+  },
+  {
+    "id": 531,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner 206 x 320 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 265.0
+  },
+  {
+    "id": 532,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner 378 x 300 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 325.0
+  },
+  {
+    "id": 533,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 19,
+    "descrizioneTask": "Crowner 385 x 356 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 375.0
+  },
+  {
+    "id": 534,
+    "idProgetto": 25,
+    "dataTask": "13/02/24",
+    "idServizio": 86,
+    "descrizioneTask": "Pendolino 130 x 170 mm",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 118.0
+  },
+  {
+    "id": 535,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.0
+  },
+  {
+    "id": 536,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.0
+  },
+  {
+    "id": 537,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 66,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 146.0
+  },
+  {
+    "id": 538,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 84,
+    "descrizioneTask": "Bag",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 122.0
+  },
+  {
+    "id": 539,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 20,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 210.0
+  },
+  {
+    "id": 540,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 23,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 254.0
+  },
+  {
+    "id": 541,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 32,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 202.0
+  },
+  {
+    "id": 542,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 12,
+    "descrizioneTask": "Portasample",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 212.0
+  },
+  {
+    "id": 543,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 84,
+    "descrizioneTask": "Trolley",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 235.0
+  },
+  {
+    "id": 544,
+    "idProgetto": 26,
+    "dataTask": "06/02/24",
+    "idServizio": 21,
+    "descrizioneTask": "T-Shirt",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 143.0
+  },
+  {
+    "id": 545,
+    "idProgetto": 23,
+    "dataTask": "26/03/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 247.0
+  },
+  {
+    "id": 546,
+    "idProgetto": 23,
+    "dataTask": "26/03/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 105.0
+  },
+  {
+    "id": 547,
+    "idProgetto": 23,
+    "dataTask": "26/03/24",
+    "idServizio": 66,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.0
+  },
+  {
+    "id": 548,
+    "idProgetto": 23,
+    "dataTask": "26/03/24",
+    "idServizio": 92,
+    "descrizioneTask": "Bus QP",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.0
+  },
+  {
+    "id": 549,
+    "idProgetto": 23,
+    "dataTask": "26/03/24",
+    "idServizio": 92,
+    "descrizioneTask": "Bus Shelter",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.0
+  },
+  {
+    "id": 550,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 247.0
+  },
+  {
+    "id": 551,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 105.0
+  },
+  {
+    "id": 552,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 4,
+    "descrizioneTask": "Proposte locandina",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 169.0
+  },
+  {
+    "id": 553,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 65,
+    "descrizioneTask": "Key Visual",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 130.0
+  },
+  {
+    "id": 554,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 65,
+    "descrizioneTask": "Premi",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 70.0
+  },
+  {
+    "id": 555,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Verticale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 115.0
+  },
+  {
+    "id": 556,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 35,
+    "descrizioneTask": "Loandina Orizzontale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 115.0
+  },
+  {
+    "id": 557,
+    "idProgetto": 24,
+    "dataTask": "06/03/24",
+    "idServizio": 82,
+    "descrizioneTask": "Variazioni locandine",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 74.0
+  },
+  {
+    "id": 558,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 278.0
+  },
+  {
+    "id": 559,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 109.0
+  },
+  {
+    "id": 560,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 65,
+    "descrizioneTask": "Key Visual",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.0
+  },
+  {
+    "id": 561,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 65,
+    "descrizioneTask": "Prodotto",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 70.0
+  },
+  {
+    "id": 562,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Verticale (3 Soggetti)",
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 152.0
+  },
+  {
+    "id": 563,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 35,
+    "descrizioneTask": "Loandina Orizzontale (3 Soggetti)",
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 152.0
+  },
+  {
+    "id": 564,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 82,
+    "descrizioneTask": "Declinazione Totem",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 130.0
+  },
+  {
+    "id": 565,
+    "idProgetto": 22,
+    "dataTask": "27/03/24",
+    "idServizio": 82,
+    "descrizioneTask": "Declinazione inglese",
+    "numeroTask": 14,
+    "rateTask": 1,
+    "importoTask": 42.0
+  },
+  {
+    "id": 566,
+    "idProgetto": 21,
+    "dataTask": "03/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.0
+  },
+  {
+    "id": 567,
+    "idProgetto": 21,
+    "dataTask": "03/04/24",
+    "idServizio": 84,
+    "descrizioneTask": "Rivestimento Telo mare",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 86.0
+  },
+  {
+    "id": 568,
+    "idProgetto": 21,
+    "dataTask": "03/04/24",
+    "idServizio": 84,
+    "descrizioneTask": "Rivestimento Racchettoni",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 64.0
+  },
+  {
+    "id": 569,
+    "idProgetto": 15,
+    "dataTask": "19/04/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 278.0
+  },
+  {
+    "id": 570,
+    "idProgetto": 15,
+    "dataTask": "19/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 109.0
+  },
+  {
+    "id": 571,
+    "idProgetto": 15,
+    "dataTask": "19/04/24",
+    "idServizio": 49,
+    "descrizioneTask": "Crane Machine Vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 342.0
+  },
+  {
+    "id": 572,
+    "idProgetto": 15,
+    "dataTask": "19/04/24",
+    "idServizio": 55,
+    "descrizioneTask": "Adesiva",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 134.0
+  },
+  {
+    "id": 573,
+    "idProgetto": 15,
+    "dataTask": "19/04/24",
+    "idServizio": 26,
+    "descrizioneTask": "Flyer Test",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.0
+  },
+  {
+    "id": 574,
+    "idProgetto": 18,
+    "dataTask": "09/04/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 278.0
+  },
+  {
+    "id": 575,
+    "idProgetto": 18,
+    "dataTask": "09/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 109.0
+  },
+  {
+    "id": 576,
+    "idProgetto": 18,
+    "dataTask": "09/04/24",
+    "idServizio": 58,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 342.0
+  },
+  {
+    "id": 577,
+    "idProgetto": 18,
+    "dataTask": "09/04/24",
+    "idServizio": 55,
+    "descrizioneTask": "Expo Patch",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 84.0
+  },
+  {
+    "id": 578,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 247.0
+  },
+  {
+    "id": 579,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 105.0
+  },
+  {
+    "id": 580,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 77,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 150.0
+  },
+  {
+    "id": 581,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 73,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 383.0
+  },
+  {
+    "id": 582,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 72,
+    "descrizioneTask": null,
+    "numeroTask": 7,
+    "rateTask": 1,
+    "importoTask": 179.0
+  },
+  {
+    "id": 583,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 71,
+    "descrizioneTask": null,
+    "numeroTask": 10,
+    "rateTask": 1,
+    "importoTask": 203.0
+  },
+  {
+    "id": 584,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 55,
+    "descrizioneTask": "Stickers",
+    "numeroTask": 6,
+    "rateTask": 1,
+    "importoTask": 92.0
+  },
+  {
+    "id": 585,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 14,
+    "descrizioneTask": "Bracciale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 84.0
+  },
+  {
+    "id": 586,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 43,
+    "descrizioneTask": "Foglio Painting",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 107.0
+  },
+  {
+    "id": 587,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Calligrafo Fondale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 367.0
+  },
+  {
+    "id": 588,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Calligrafo Parete Interna",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 267.0
+  },
+  {
+    "id": 589,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Calligrafo Retro",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 193.0
+  },
+  {
+    "id": 590,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Calligrafo Roof Interno",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 285.0
+  },
+  {
+    "id": 591,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 53,
+    "descrizioneTask": "Cavalletto Ospiti",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 103.0
+  },
+  {
+    "id": 592,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Dance Studio Roof",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 352.0
+  },
+  {
+    "id": 593,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 20,
+    "descrizioneTask": "Desk Vestizione",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 237.0
+  },
+  {
+    "id": 594,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "DJ Station Floor",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 364.0
+  },
+  {
+    "id": 595,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 20,
+    "descrizioneTask": "DJ Station Desk",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 215.0
+  },
+  {
+    "id": 596,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "DJ Staion Pareti lateriali",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 267.0
+  },
+  {
+    "id": 597,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Dj Staion Roof Int/Est",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 264.0
+  },
+  {
+    "id": 598,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 28,
+    "descrizioneTask": "Flyer QR Code",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 152.0
+  },
+  {
+    "id": 599,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 55,
+    "descrizioneTask": "Giraffa MiniV3",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 72.0
+  },
+  {
+    "id": 600,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Karaoke Station Floor/Roof",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 254.0
+  },
+  {
+    "id": 601,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Karaoke Station Parete",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 294.0
+  },
+  {
+    "id": 602,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "MakeUp Floor/Roof IE",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 247.0
+  },
+  {
+    "id": 603,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "MakeUp Parete Post",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 134.0
+  },
+  {
+    "id": 604,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Photo Opportunity Floor/Roof IE",
+    "numeroTask": 3,
+    "rateTask": 1,
+    "importoTask": 247.0
+  },
+  {
+    "id": 605,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Photo Opportunity Pareti interne",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 375.0
+  },
+  {
+    "id": 606,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 42,
+    "descrizioneTask": "Photo Opportunity Pareti lateriali",
+    "numeroTask": 2,
+    "rateTask": 1,
+    "importoTask": 267.0
+  },
+  {
+    "id": 607,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 55,
+    "descrizioneTask": "Sticker Recharge Machine",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 74.0
+  },
+  {
+    "id": 608,
+    "idProgetto": 12,
+    "dataTask": "24/04/24",
+    "idServizio": 50,
+    "descrizioneTask": "Totem ospiti",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 142.0
+  },
+  {
+    "id": 609,
+    "idProgetto": 14,
+    "dataTask": "23/04/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 278.0
+  },
+  {
+    "id": 610,
+    "idProgetto": 14,
+    "dataTask": "23/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 109.0
+  },
+  {
+    "id": 611,
+    "idProgetto": 14,
+    "dataTask": "23/04/24",
+    "idServizio": 66,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 235.0
+  },
+  {
+    "id": 612,
+    "idProgetto": 14,
+    "dataTask": "23/04/24",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Orizzontale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.0
+  },
+  {
+    "id": 613,
+    "idProgetto": 14,
+    "dataTask": "23/04/24",
+    "idServizio": 35,
+    "descrizioneTask": "Locandina Verticale",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 140.0
+  },
+  {
+    "id": 614,
+    "idProgetto": 16,
+    "dataTask": "18/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 109.0
+  },
+  {
+    "id": 615,
+    "idProgetto": 16,
+    "dataTask": "18/04/24",
+    "idServizio": 66,
+    "descrizioneTask": "Key Visual",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 356.0
+  },
+  {
+    "id": 616,
+    "idProgetto": 17,
+    "dataTask": "11/04/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 155.0
+  },
+  {
+    "id": 617,
+    "idProgetto": 17,
+    "dataTask": "11/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 93.0
+  },
+  {
+    "id": 618,
+    "idProgetto": 17,
+    "dataTask": "11/04/24",
+    "idServizio": 5,
+    "descrizioneTask": "Banner 1200 x 630 px",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 93.0
+  },
+  {
+    "id": 619,
+    "idProgetto": 17,
+    "dataTask": "11/04/24",
+    "idServizio": 33,
+    "descrizioneTask": "Leaflet (4 facciate)",
+    "numeroTask": 4,
+    "rateTask": 1,
+    "importoTask": 35.5
+  },
+  {
+    "id": 620,
+    "idProgetto": 17,
+    "dataTask": "11/04/24",
+    "idServizio": 84,
+    "descrizioneTask": "Trolley",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 124.0
+  },
+  {
+    "id": 621,
+    "idProgetto": 17,
+    "dataTask": "11/04/24",
+    "idServizio": 47,
+    "descrizioneTask": "Elementi grafici",
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 78.0
+  },
+  {
+    "id": 622,
+    "idProgetto": 19,
+    "dataTask": "07/04/24",
+    "idServizio": 75,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 180.0
+  },
+  {
+    "id": 623,
+    "idProgetto": 19,
+    "dataTask": "07/04/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 94.0
+  },
+  {
+    "id": 624,
+    "idProgetto": 19,
+    "dataTask": "07/04/24",
+    "idServizio": 89,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 230.0
+  },
+  {
+    "id": 625,
+    "idProgetto": 19,
+    "dataTask": "07/04/24",
+    "idServizio": 88,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 190.0
+  },
+  {
+    "id": 627,
+    "idProgetto": 136,
+    "dataTask": "30/09/24",
+    "idServizio": 74,
+    "descrizioneTask": null,
+    "numeroTask": 1,
+    "rateTask": 1,
+    "importoTask": 80.0
+  }
+]

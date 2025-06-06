@@ -1,0 +1,7 @@
+
+[
+  { "name": "Design Grafico", "value": 4500, "client": "Azienda X", "year": 2024 },
+  { "name": "Sviluppo Web", "value": 3000, "client": "Startup Y", "year": 2024 },
+  { "name": "Consulenza UX", "value": 2500, "client": "Azienda X", "year": 2023 },
+  { "name": "Fotografia", "value": 1500, "client": "Privato Z", "year": 2023 }
+]
